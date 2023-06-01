@@ -2,6 +2,9 @@
 # TodoWithCoreData Demo
 ### this repo is to demostrate usage of Core Data, I implemented CRUD funcs to fetch/add/delete item from Core Data Persistent store. This project provides multi-thread methods for manipulating stored data. By using SwiftUI, it acquired react ability to sync with local data changes. 
 
+### Preview [screen record](https://github.com/xcwxcw91/todoWithCoreData/blob/main/demo.mp4)
+
+
 ### Technique
 * CoreData
 * SwiftUI
